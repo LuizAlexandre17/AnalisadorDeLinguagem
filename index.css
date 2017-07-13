@@ -1,0 +1,20 @@
+.wrong {
+    border-bottom: 1px solid red !important;
+    box-shadow: 0 1px 0 0 red !important;
+}
+
+.wrong+label {
+    color: red !important;
+}
+
+.tabs .tab.disabled a{
+   color: gray!important;
+}
+
+.tabs .indicator{
+    background-color: #808080;
+}
+
+h5, p{
+    cursor: default;
+}
